@@ -6,17 +6,17 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: green;
+    color: #f0f5f5;
 }
 
 /* mouse over link */
 a:hover {
-    color: orange;
+    color: #f0f5f5;
 }
 
 /* selected link */
 a:active {
-    color: blue;
+    color: #e0ebeb;
 }
 .test
 {font-family: "Courier New", Courier, monospace;
