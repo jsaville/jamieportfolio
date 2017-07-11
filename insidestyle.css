@@ -37,12 +37,12 @@ ul.inline li { display: inline-block; margin: 10px; }
 
 
 .nav
-{style=color: white;
+{font-style=color: white;
 font-weight: bold;
 font-family: "Courier New", Courier, monospace;
 font-size: 18px;
 list-style-type: none;
-style=color:#94b8b8;
+style=color:#85adad;
 }
 
 
