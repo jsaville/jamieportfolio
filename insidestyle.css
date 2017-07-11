@@ -1,0 +1,47 @@
+
+/* unvisited link */
+a:link {
+    color:  #669999;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: orange;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+.test
+{font-family: "Courier New", Courier, monospace;
+color: #334d4d;
+}
+
+.subtitle
+{font-family: "Courier New", Courier, monospace;
+font-size: 40px;
+color: #94b8b8;
+}
+
+
+
+ul > li { list-style: none; } 
+ul.inline li { display: inline-block; margin: 10px; }
+
+
+
+.nav
+{color: grey;
+font-weight: bold;
+font-family: "Courier New", Courier, monospace;
+font-size: 18px;
+list-style-type: none;
+}
+
+
