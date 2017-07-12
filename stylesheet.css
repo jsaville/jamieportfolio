@@ -16,9 +16,6 @@ font-family: "Courier New", Courier, monospace;
 font-size: 40px;
 }
 
-ul
-{}
-
 li
 {list-style-type: none;
 padding:10px;}
@@ -31,4 +28,19 @@ font-weight: bold;
 font-family: "Courier New", Courier, monospace;
 font-size: 30px;}
 
+/* unvisited link */
+a:link {
+    color:  #48600d;
+}
+
+/* visited link */
+a:visited {
+    color:#48600d;
+}
+
+
+/* selected link */
+a:active {
+    color: #48600d;
+}
 
