@@ -1,4 +1,5 @@
-
+body
+{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
 
 .nav
 {color: white;
@@ -8,3 +9,23 @@ font-size: 18px;
 list-style-type: none;
 background: #85adad;
 }
+
+ul.inline li { display: inline-block; margin: 10px; }
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.subtitle
+{font-family: "Courier New", Courier, monospace;
+font-size: 40px;
+color: #94b8b8;
+}
+
+
+
+
