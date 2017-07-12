@@ -1,25 +1,13 @@
+body
+{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
 
-/* unvisited link */
-a:link {
-    color:  #669999;
-}
 
-/* visited link */
-a:visited {
-    color: #476b6b;
-}
-
-/* mouse over link */
-a:hover {
-    color: #669999;
-}
-
-/* selected link */
-a:active {
-    color: #f0f5f5;
-}
-
-a {text-decoration: none;
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .subtitle
@@ -29,20 +17,16 @@ color: #94b8b8;
 }
 
 
-
 ul > li { list-style: none; } 
 ul.inline li { display: inline-block; margin: 10px; }
 
 
 
 .nav
-{font-style=color: white;
+{color: white;
 font-weight: bold;
 font-family: "Courier New", Courier, monospace;
 font-size: 18px;
 list-style-type: none;
-style=color:#85adad;
-    padding: 40px;
+background: #85adad;
 }
-
-
