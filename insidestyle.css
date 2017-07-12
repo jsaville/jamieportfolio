@@ -1,16 +1,6 @@
 body
 {font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
 
-.nav
-{color: white;
-font-weight: bold;
-font-family: "Courier New", Courier, monospace;
-font-size: 18px;
-list-style-type: none;
-background: #85adad;
-}
-
-ul.inline li { display: inline-block; margin: 10px; }
 
 li a {
     display: block;
@@ -27,5 +17,16 @@ color: #94b8b8;
 }
 
 
+ul > li { list-style: none; } 
+ul.inline li { display: inline-block; margin: 10px; }
 
 
+
+.nav
+{color: white;
+font-weight: bold;
+font-family: "Courier New", Courier, monospace;
+font-size: 18px;
+list-style-type: none;
+background: #85adad;
+}
