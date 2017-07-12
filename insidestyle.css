@@ -18,9 +18,8 @@ a:hover {
 a:active {
     color: #e0ebeb;
 }
-.test
-{font-family: "Courier New", Courier, monospace;
-color: #334d4d;
+
+a {text-decoration: none;
 }
 
 .subtitle
