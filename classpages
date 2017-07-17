@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GCC Resources</title>
+        <link rel = "stylesheet" type = "text/css" href = "insidestyle.css">
+    </head>
+    <body>
+     <h2>Girl Code Camp Session II</h2>
+     <div class="nav">
+     <ul class="inline">
+    <li><a href="index.html">home</a></li>
+    <li><a href="about.html">about</a></li>
+    <li><a href="classpages.html">class pages</a></li>
+    <li><a href="resources.html">resources</a></li>
+    </ul>
+    </div>
+
+    <h1 class="subtitle">Class Pages</h1>
+        
+
+
+   <p>• <a href="https://schatzju.github.io/juleWebsite/" target="blank">Jule</a><br>
+       • <a href="https://weimel.github.io/myWeeklyPlanner/" target="blank">Melyssa</a><br>
+
+   </p>
+   
+    
+    </body>
+</html>
